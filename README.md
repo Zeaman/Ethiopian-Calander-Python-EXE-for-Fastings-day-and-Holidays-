@@ -28,6 +28,10 @@ Bahire Hasab is a traditional method used by the Ethiopian Orthodox Tewahedo Chu
 
 <img src="open_page.JPG" width="600">
 
+#### Use the ENGLISH version (in developing) for comparison purpose:
+
+<img src="open_page_ENGLISH.JPG" width="600">
+
 ### 2. Year entry:
 
 <img src="data_entry_2017.JPG" width="600">
