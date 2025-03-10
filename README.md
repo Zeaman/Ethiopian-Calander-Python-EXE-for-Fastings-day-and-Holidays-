@@ -26,27 +26,26 @@ Bahire Hasab is a traditional method used by the Ethiopian Orthodox Tewahedo Chu
 ## Steps:
 ### 1. 🏠 First Look:
 
-    <img src="open_page.JPG" width="600">
+    ![open_page](https://github.com/user-attachments/assets/a075a5fc-f4b8-4b3b-aea8-3a738a2ee3e7)
 
 ### 2. Year entry:
 
-    <img src="data_entry_2017.jpg" width="600">
+    ![data_entry_2017](https://github.com/user-attachments/assets/d6422428-f7f4-4c3a-917f-85724621c0b5)
 
 ### 3. 🔍 Calculated Result print-out:
 
-    <img src="calculate_2017_1.JPG" width="600">
+    ![calculate_2017_1](https://github.com/user-attachments/assets/0c224764-3152-4529-98db-29d0f973a9e8)
 
 ### 4. 🚀 Checked Boxes for more results:
 
-    <img src="calculate_2017_checked.JPG" width="600">
+    ![calculate_2017_checked](https://github.com/user-attachments/assets/fbd51c6f-f7ab-4362-a9c6-9a970eda018a)
 
-    <img src="calculate_2017_checked_2.JPG" width="600">
+    ![calculate_2017_checked_2](https://github.com/user-attachments/assets/65aa7ac2-7c2d-46ed-9c15-a25eca704cce)
 
 ## Used Resource (Materials)
 
 I used different religious (Ethiopian Orthodox Tewahedo Chuch) books and articles to get the algorithm's history, algorithm, and development techniques. 
 
-## Sammury![open_page](https://github.com/user-attachments/assets/b56ac4ea-faf2-42fb-8e2a-39c662b7cf86)
-
+## Sammury
 
 Overall, "Ethiopian Calendar Python EXE for Fastings-day and Holidays" is an essential tool for members of the Ethiopian Orthodox Tewahedo Church, providing them with easy access to important dates and helping them adhere to their spiritual practices.
