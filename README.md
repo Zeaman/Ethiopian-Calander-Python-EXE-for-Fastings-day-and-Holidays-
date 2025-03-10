@@ -1,2 +1,29 @@
 # Ethiopian-Calander-Python-EXE-for-Fastings-day-and-Holidays-
-'Ethiopian Calander Python EXE for Fastings-day and Holidays' is a widows application (EXE file) developed using Python code used for calculating Fasting (ጾሞችን) holdidays(ባዐላትን) based on Ethiopian Orthodox Tewhado Church algorithm called Bahire-hasab, we name it after.
+"Ethiopian Calendar Python EXE for Fastings-day and Holidays" is a Windows application (EXE file) developed using Python code designed to calculate fasting days (ጾሞችን) and holidays (ባዐላትን) based on the Ethiopian Orthodox Tewahedo Church algorithm known as Bahire Hasab. This algorithm is a centuries-old method used to determine the dates of religious observances in the Ethiopian Orthodox calendar.
+
+## Key Features:
+User Interface: The application provides a user-friendly interface where users can input a specific Ethiopian calendar year (ዓመተ ምህረት) and receive calculated dates for important fasting periods and holidays.
+
+### Checkbox Options: Users can customize the output by selecting or unselecting checkboxes to display specific information such as:
+
+### Welcome Message
+
+### Year Provided
+
+### Anno Domini
+
+### Dynamic and Static Calculations
+
+Specific computing numbers like Wengelawewu, Medebe, Wenber, Abeqete, Meteqe, Metene-rabit, and Metene-sabit.
+
+Specific fasting days like Tsome-nenewe, Abiye-tsome, Tsome-hawariyat, and Tsome-dihnete
+
+Specific religion holidays: Debre-zeyet, Hosahena, Seqelete, Tensae, Rekebe-kahenat, Erget, and Perakletos  
+
+## About the Bahire-Hasab Algorithm:
+Bahire Hasab is a traditional method used by the Ethiopian Orthodox Tewahedo Church to calculate the dates of movable feasts and fasting periods. This application leverages the algorithm to provide accurate and reliable information to the faithful, ensuring that they can observe important religious events according to the Ethiopian liturgical calendar.
+
+## Used Resource (materials)
+I used different religious (Ethiopian Orthodox Tewahedo Chuch) books and articles to get the algorithm's history, algorithm, and development techniques. 
+
+Overall, "Ethiopian Calendar Python EXE for Fastings-day and Holidays" is an essential tool for members of the Ethiopian Orthodox Tewahedo Church, providing them with easy access to important dates and helping them adhere to their spiritual practices.
