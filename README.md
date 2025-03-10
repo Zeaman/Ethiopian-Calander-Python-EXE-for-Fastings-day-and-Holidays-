@@ -6,13 +6,13 @@ User Interface: The application provides a user-friendly interface where users c
 
 ### Checkbox Options: Users can customize the output by selecting or unselecting checkboxes to display specific information such as:
 
-####     Welcome page
+####     ✅ Welcome page
 
-####     Year Provided
+####     ✅ Year Provided
 
-####     Anno Domini
+####     ✅ Anno Domini
 
-####     Dynamic and Static Calculations
+####     ✅ Dynamic and Static Calculations
 
 Specific computing numbers like Wengelawewu, Medebe, Wenber, Abeqete, Meteqe, Metene-rabit, and Metene-sabit.
 
@@ -24,19 +24,19 @@ Specific religion holidays: Debre-zeyet, Hosahena, Seqelete, Tensae, Rekebe-kahe
 Bahire Hasab is a traditional method used by the Ethiopian Orthodox Tewahedo Church to calculate the dates of movable feasts and fasting periods. This application leverages the algorithm to provide accurate and reliable information to the faithful, ensuring that they can observe important religious events according to the Ethiopian liturgical calendar.
 
 ## Steps:
-### 1. First Look:
+### 1. 🏠 First Look:
 
     <img src="[open_page.JPG](https://github.com/Zeaman/Ethiopian-Calander-Python-EXE-for-Fastings-day-and-Holidays-/blob/main/open_page.JPG)" width="600">
 
 ### 2. Year entry:
 
-    <img src="data_entry_2017.JPG" width="600">
+    <img src="data_entry_2017.jpg" width="600">
 
-### 3. Calculated Result print-out:
+### 3. 🔍 Calculated Result print-out:
 
     <img src="calculate_2017_1.JPG" width="600">
 
-### 4. Checked Boxes for more results:
+### 4. 🚀 Checked Boxes for more results:
 
     <img src="calculate_2017_checked.JPG" width="600">
 
