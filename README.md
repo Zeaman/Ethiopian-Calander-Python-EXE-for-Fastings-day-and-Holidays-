@@ -42,10 +42,11 @@ Bahire Hasab is a traditional method used by the Ethiopian Orthodox Tewahedo Chu
 
     <img src="calculate_2017_checked_2.JPG" width="600">
 
-## Used Resource (materials)
+## Used Resource (Materials)
 
 I used different religious (Ethiopian Orthodox Tewahedo Chuch) books and articles to get the algorithm's history, algorithm, and development techniques. 
 
-## Sammury
+## Sammury![open_page](https://github.com/user-attachments/assets/b56ac4ea-faf2-42fb-8e2a-39c662b7cf86)
+
 
 Overall, "Ethiopian Calendar Python EXE for Fastings-day and Holidays" is an essential tool for members of the Ethiopian Orthodox Tewahedo Church, providing them with easy access to important dates and helping them adhere to their spiritual practices.
