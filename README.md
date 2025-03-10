@@ -26,7 +26,7 @@ Bahire Hasab is a traditional method used by the Ethiopian Orthodox Tewahedo Chu
 ## Steps:
 ### 1. 🏠 First Look:
 
-    <img src="[open_page.JPG](https://github.com/Zeaman/Ethiopian-Calander-Python-EXE-for-Fastings-day-and-Holidays-/blob/main/open_page.JPG)" width="600">
+    <img src="open_page.JPG" width="600">
 
 ### 2. Year entry:
 
