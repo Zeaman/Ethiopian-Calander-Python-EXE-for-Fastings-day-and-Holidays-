@@ -6,13 +6,13 @@ User Interface: The application provides a user-friendly interface where users c
 
 ### Checkbox Options: Users can customize the output by selecting or unselecting checkboxes to display specific information such as:
 
-### Welcome Message
+####     Welcome page
 
-### Year Provided
+####     Year Provided
 
-### Anno Domini
+####     Anno Domini
 
-### Dynamic and Static Calculations
+####     Dynamic and Static Calculations
 
 Specific computing numbers like Wengelawewu, Medebe, Wenber, Abeqete, Meteqe, Metene-rabit, and Metene-sabit.
 
